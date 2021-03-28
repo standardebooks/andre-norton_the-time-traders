@@ -54,7 +54,7 @@
 		<dc:creator id="author">Andre Norton</dc:creator>
 		<meta property="file-as" refines="#author">Norton, Andre</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Andre_Norton</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80126299</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80126299</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Franz Marc</dc:contributor>
 		<meta property="file-as" refines="#artist">Marc, Franz</meta>
