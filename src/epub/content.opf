@@ -48,7 +48,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19145</dc:source>
 		<dc:source>https://archive.org/details/timetraders00nort</dc:source>
-		<meta property="se:word-count">64442</meta>
+		<meta property="se:word-count">64440</meta>
 		<meta property="se:reading-ease.flesch">80.51</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Time_Traders</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/andre-norton_the-time-traders</meta>
