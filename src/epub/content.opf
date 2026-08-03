@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/andre-norton/the-time-traders</dc:identifier>
 		<dc:date>2020-06-26T17:52:20Z</dc:date>
@@ -40,11 +40,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Time Traders</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A young criminal volunteers for a government project at a secret base.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young criminal volunteers for a government project at a secret base.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Time Traders&lt;/i&gt; is the first book in &lt;a href="https://standardebooks.org/ebooks/andre-norton"&gt;Andre Norton’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/time-traders"&gt;Time Traders series&lt;/a&gt;. First published in 1958 by World Publishing Co., &lt;i&gt;The Time Traders&lt;/i&gt; is told from the perspective of Ross Murdock, a young criminal faced with a choice: be turned over to the new Rehabilitation Service or volunteer for a secret government project.&lt;/p&gt;
 			&lt;p&gt;Murdock chooses the secret government project, hoping for a chance to escape. At the Arctic base he learns what the project is, and instead of escaping he joins a team posing as Beaker Traders during Europe’s Bronze Age. His team makes several jumps through time searching for the source of technology the Reds are using to gain advantages in the present.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19145</dc:source>
 		<dc:source>https://archive.org/details/timetraders00nort</dc:source>
