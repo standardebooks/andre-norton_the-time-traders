@@ -31,7 +31,7 @@
 		<dc:title id="title">The Time Traders</dc:title>
 		<meta property="file-as" refines="#title">Time Traders, The</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
-		<dc:subject id="subject-2">Time travel -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Time travel--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
